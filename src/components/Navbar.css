@@ -18,3 +18,8 @@
     color: white;
     margin-left: 20px;
 }
+
+.iconSpan{
+    display: flex;
+    align-items: center;
+}
